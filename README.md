@@ -2,7 +2,7 @@
 
 > "He who chases two rabbits catches neither"
 
-### **Writing this as of September 3rd:**
+### **Writing this as of September 3rd 2024:**
 
 I'm focusing on sharpening **3 types of skills** as I go through my final year of studies:
 
