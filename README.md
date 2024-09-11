@@ -13,7 +13,6 @@
   *(Covering probability theory, statistics, stochastic calculus, linear algebra, optimization, and numerical methods)*
 
 -  **1 hour of studying OS/Networks**  
-  *(Leading up to knowledge of assembly language and how machines work, linking it to programming languages)*
 
 -  **5 QuantGuide questions**  
   *(1 in each of the following: Probability, Brainteasers, Statistics, Pure math, Finance)*
